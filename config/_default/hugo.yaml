@@ -40,7 +40,8 @@ languages:
       shortcuts:
         - identifier: ds
           name: <i class='fab fa-fw fa-github'></i> GitHub repo
-          url: https://github.com/McShelby/hugo-theme-relearn
+          # url: https://github.com/McShelby/hugo-theme-relearn
+          url: https://github.com/imstatsbee/imchel
           weight: 10
         - name: <i class='fas fa-fw fa-camera'></i> Showcases
           pageRef: showcase/
@@ -57,7 +58,7 @@ languages:
     params:
       landingPageName: <i class='fas fa-home'></i> Home
     # title: Hugo Relearn Theme
-    title: this title change
+    title: this title option changes the text on the windows tab
     weight: 1
   pir:
     languageCode: art-pir
