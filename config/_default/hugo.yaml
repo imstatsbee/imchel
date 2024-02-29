@@ -56,7 +56,8 @@ languages:
           weight: 50
     params:
       landingPageName: <i class='fas fa-home'></i> Home
-    title: Hugo Relearn Theme
+    # title: Hugo Relearn Theme
+    title: this title change
     weight: 1
   pir:
     languageCode: art-pir
