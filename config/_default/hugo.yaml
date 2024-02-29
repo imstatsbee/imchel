@@ -7,7 +7,7 @@ defaultContentLanguage: en
 title: new name
 outputs:
   home:
-#    - html
+    - html
     - rss
     - print
     - search
