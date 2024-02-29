@@ -1,11 +1,3 @@
 ---
-archetype: chapter
-title: Research
-weight: 5
+title: "Notes"
 ---
-
-
-* Imprecise Probabilities 
-* Nonlinear mixed-effects model 
-* 
-

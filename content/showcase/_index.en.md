@@ -6,6 +6,7 @@ title = "Showcase"
   publishResources = true
 +++
 
+<!-- 
 ## Poésieland by Barbara Post
 
 A collection of poems with requirements for improved taxonomy support, adjusted menu width and additional JavaScript dependencies.
@@ -29,3 +30,4 @@ Governmental IT security training with additional requirements for accessibility
 A classical documentation site in the domain of automation technology with a custom branding variant.
 
 [![Pamasol Electrics](pamasol-electrics-portal.png?width=60pc&lightbox=false)](https://pamasol.github.io/de/)
+-->

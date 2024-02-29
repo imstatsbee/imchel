@@ -4,6 +4,7 @@ title: Credits
 
 ## Contributors
 
+<!-- 
 Special thanks to [everyone who has contributed](https://github.com/McShelby/hugo-theme-relearn/graphs/contributors) to this project.
 
 Many thanks to [Mathieu Cornic](https://github.com/matcornic) for his work on porting the [Learn theme](https://github.com/matcornic/hugo-theme-learn) to Hugo.
@@ -55,3 +56,5 @@ Many thanks to [Andy Miller](https://github.com/rhukster) for initially creating
   - https://github.com/WyriHaximus/github-action-next-semvers
 - [gren](https://github.com/github-tools/github-release-notes) - A releasenotes generator for GitHub
 - [Hugo](https://gohugo.io/) - The static site generator of your choice
+
+-->

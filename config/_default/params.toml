@@ -10,21 +10,23 @@
 # This will be used in HTML meta tags, the opengraph protocol and twitter
 # cards.
 # You can also set `author.email` if you want to publish this information.
-author.name = "Sören Weber"
+# author.name = "Sören Weber"
+author.name = "Chel"
 
 # The social media image of your site.
 # Default: not set
 # This is used for generating social media meta information for the opengraph
 # protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-images = [ "images/hero.png" ]
+# images = [ "images/hero.png" ]
 
 # The description of your site.
 # Default: not set
 # This is used for generating HTML meta tags, social media meta information
 # for the opengraph protocol and twitter cards.
 # This can be overridden in the page's frontmatter.
-description = "Documentation for Hugo Relearn Theme"
+# description = "Documentation for Hugo Relearn Theme"
+description = "Documentatation for Chel notes"
 
 # Admin options for social media.
 # Default: not set
@@ -163,7 +165,8 @@ disableNextPrev = false
 # `${FilePath}` was appended at the end of the value. This can be overridden
 # in the pages frontmatter. This is useful if you want to give the opportunity
 # for people to create merge request for your content.
-editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/${FilePath}"
+# editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/${FilePath}"
+editURL = ""
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Menu
@@ -180,7 +183,8 @@ disableSearch = false
 # Default: false
 # If shown, a Home button will appear below the search bar and the main menu.
 # It links to your the home page of the current language.
-disableLandingPageButton = true
+# disableLandingPageButton = true
+disableLandingPageButton = false
 
 # The order of main menu submenus.
 # Default: "weight"
