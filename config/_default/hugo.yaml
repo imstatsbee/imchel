@@ -3,7 +3,8 @@ relativeURLs: yes
 uglyURLs: no
 theme: hugo-theme-relearn
 defaultContentLanguage: en
-title: Hugo Relearn Theme
+# title: Hugo Relearn Theme
+title: new name
 outputs:
   home:
     - html
